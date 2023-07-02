@@ -7,7 +7,7 @@ For install you need just clone git repo:
 After that you can should install it as follow:
 ``` cargo install --path . ```
 
-After you can start using, remember, that it would be create a tasks.json in current dir, where you launch app.
+After you can start using, remember, that it will be create a tasks.json in current dir, where you launch app.
 For add new task:
 ``` task_manager add "Task name" ```
 
